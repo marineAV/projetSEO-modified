@@ -824,6 +824,23 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
+.explaination-text{
+    font-size: 22px;
+    color: #333333;
+}
+.citation{
+    font-style: italic;
+    font-size: 20px;
+    color: #333333;
+}
+.author-citation{
+    font-size: 14px;
+    color: #333333;
+}
+.work-exemple{
+    font-size: 22px;
+    color: #333333;
+}
 
 @media (max-width: 1024px) {
     .bloc {
