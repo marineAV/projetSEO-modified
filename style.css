@@ -703,9 +703,6 @@ p {
     max-width: 400px;
     margin: auto auto 30px auto;
 }
-.social p{
-    display: none;
-}
 .socials{
     margin-bottom: 20px;
 }
